@@ -1,0 +1,15 @@
+/*this is for CSS*/
+body {
+	    background-color: lightblue;
+        margin-left: 20px; 		
+     }
+.heading {
+	  color: Green; 
+	  text-decoration: underline;   
+   } 
+   
+.list {  
+      color: navy;
+	  text-decoration: underline; 
+	  
+  } 
