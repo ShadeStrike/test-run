@@ -12,4 +12,17 @@ body {
       color: navy;
 	  text-decoration: underline; 
 	  
-  } 
+  }
+  
+  p:first-of-type {
+     color: blue;
+  }
+
+  p:nth-of-type(2) {
+     color: red;
+  }
+
+  .green-text {
+     font-style: italic;
+     color: green;
+  }
