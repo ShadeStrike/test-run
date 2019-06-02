@@ -31,15 +31,15 @@ body {
      font-size: 40px;
   }
 
-  .emily-name {
-   animation-name: name-glow;
+  .background-change {
+   animation-name: text-glow;
    animation-duration: 10s;
    animation-iteration-count: infinite;
    animation-direction: alternate;
    pointer-events: none;
  }
 
- @keyframes name-glow {
+ @keyframes text-glow {
     0% {
        background-color: red;
        margin-left: 0;
